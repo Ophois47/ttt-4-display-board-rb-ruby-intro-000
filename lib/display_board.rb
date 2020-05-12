@@ -8,4 +8,4 @@ end
 
 board_empty = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
-display_board
+display_board(board_empty)
